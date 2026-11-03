@@ -18,7 +18,7 @@ const activeTab=ref('proflie');
 </div>
 </template>
 
-<style>
+<style scoped>
 .container{
     display: flex;
     flex-direction: column;    
